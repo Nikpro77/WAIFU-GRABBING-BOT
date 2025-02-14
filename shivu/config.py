@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "1993048420"
     sudo_users = "1993048420", "5743248220", "1214348787", "5296961281"
     GROUP_ID = -1002023287369
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
+    TOKEN = "6970757140:AAHsnyzgfk0ISxJWNnOdjO9WQxJX3Xj3tv8"
     mongo_url = "mongodb+srv://niksharma92297:wWaifu@cluster0.ywgti.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://files.catbox.moe/m4g43m.jpg", "https://files.catbox.moe/1giocq.jpg", "https://files.catbox.moe/yj0rvl.jpg"]
     SUPPORT_CHAT = "waifu_support_group"
