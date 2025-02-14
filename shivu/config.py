@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
-    sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
+    OWNER_ID = "1993048420"
+    sudo_users = "1993048420", "5743248220", "1214348787", "5296961281"
+    GROUP_ID = -1002023287369
     TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    mongo_url = "mongodb+srv://niksharma92297:wWaifu@cluster0.ywgti.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    PHOTO_URL = ["https://files.catbox.moe/m4g43m.jpg", "https://files.catbox.moe/1giocq.jpg", "https://files.catbox.moe/yj0rvl.jpg"]
+    SUPPORT_CHAT = "waifu_support_group"
+    UPDATE_CHAT = "waifu_support_group"
+    BOT_USERNAME = "Waifu_Grabbing_robot"
+    CHARA_CHANNEL_ID = "-1002003134505"
+    api_id = 22867431
+    api_hash = "24ef0e76ceb137563dc33722e4cd79bd"
 
     
 class Production(Config):
